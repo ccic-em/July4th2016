@@ -157,13 +157,13 @@ header {
 header .header-content {
   position: relative;
   text-align: center;
-  margin-top: 100px;
   padding: 100px 15px 100px;
   width: 100%;
 }
 header .header-content .header-content-inner h1 {
   font-weight: 700;
   text-transform: uppercase;
+  padding-top: 100px;
   margin-top: 0;
   margin-bottom: 0;
 }
