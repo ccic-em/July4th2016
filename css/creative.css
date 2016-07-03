@@ -164,10 +164,10 @@ header .header-content .header-content-inner h1 {
   font-weight: 700;
   text-transform: uppercase;
   text-shadow:
-       -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-         1px 1px 0 #000;
+       -1px -1px 0 #0000FF,
+        1px -1px 0 #0000FF,
+        -1px 1px 0 #0000FF,
+         1px 1px 0 #0000FF;
   margin-top: 0;
   margin-bottom: 0;
 }
